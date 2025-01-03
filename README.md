@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @subedi-aarav
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ 
-- 📫 
+- 👀 interested in programming
+- 🌱 currently learning AI
+- 💞️ Learn more about me from aaravsubedi.com.np
+- 📫 see u around ...
 
 <!---
 subedi-aarav/subedi-aarav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
